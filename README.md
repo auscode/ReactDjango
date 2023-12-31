@@ -65,6 +65,10 @@ Explore the integration of Django REST Framework with React-Vite, including sett
 The speaker concludes the video by summarizing the integration techniques and addressing the complexities of integrating a React front-end with a Django back-end.
 
 Feel free to explore each section for detailed instructions and code snippets. Happy coding!
+# References:
+
+## Documentation 
+[Vite Backend Integration](https://vitejs.dev/guide/backend-integration)
 
 ## YT Video 
 [Youtube video for reference](https://youtu.be/NJVaySJAbw0?si=hDb6us04JznNVbqi)
