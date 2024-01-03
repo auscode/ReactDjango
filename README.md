@@ -1,4 +1,4 @@
-# React-Vite & Django Integration Techniques
+# React-Vite & Django Integration Techniques 
 
 This repository contains code and instructions for integrating a React front-end with a Django back-end using two powerful techniques. The integration methods discussed in the repo aims to provide flexibility and productivity for developers working with these technologies.
 
